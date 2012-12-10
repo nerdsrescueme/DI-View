@@ -1,0 +1,22 @@
+{
+    "name": "nerdsrescueme/view",
+    "description": "Nerd View component",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Frank Bardon Jr",
+            "email": "frankbardon@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Nerd\\View\\": ""
+        }
+    },
+
+    "target-dir": "Nerd"
+}
